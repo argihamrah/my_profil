@@ -1,0 +1,28 @@
+h1
+{
+color: #a6ada7;
+font-weight: 900;
+font-size: 32px;
+}
+
+h2
+{
+color: #CD853F;
+font-weight: 500;
+font-size: 24px;
+}
+
+h1,h2, a {
+
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+font-family: 'Open+Sans+Condensed', serif;
+font-size: 18px;
+background-color: #F7F9FC;
+}
+
+a {
+  text-decoration: none;
+}
